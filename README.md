@@ -6,10 +6,11 @@ This project presents an automated framework for matching registered employer re
 ---
 
 ## 🎯 Objectives
-- Develop an automated system for employer record matching  
-- Compare traditional string similarity techniques with semantic similarity models  
-- Evaluate the effectiveness of different approaches for record linkage  
-- Improve data consistency and reduce duplication in employer datasets  
+1. To identify duplicate and inconsistent employer records 
+2. To evaluate and select the best-performing matching model or algorithm 
+3. To determine the optimal similarity threshold for the selected model 
+4. To merge matched employer records accurately by aggregating employee counts across months 
+5. To develop a scalable and replicable data standardisation framework 
 
 ---
 
@@ -18,9 +19,9 @@ This project presents an automated framework for matching registered employer re
 - Pandas & NumPy  
 - Scikit-learn  
 - NLP / Semantic similarity models (e.g., Sentence Transformers)  
-- String similarity techniques (e.g., Levenshtein distance, Jaccard similarity)  
-- Jupyter Notebook / R (if applicable)  
-
+- String similarity techniques (e.g., Fuzzy,Levenshtein distance, Jaccard similarity)
+- Jupyter Notebook 
+  
 ---
 
 ## ⚙️ Methodology
