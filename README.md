@@ -63,11 +63,11 @@ This project presents an automated framework for matching registered employer re
 
 ## 📂 Project Structure
 📁 project-folder/
-│── data/                  # Dataset files
-│── notebooks/             # Jupyter notebooks / analysis
-│── src/                   # Source code
-│── results/               # Output results and evaluation
-│── README.md              # Project documentation
+- data/                  # Dataset files
+- notebooks/             # Jupyter notebooks / analysis
+- src/                   # Source code
+- results/               # Output results and evaluation
+- README.md              # Project documentation
 
 ---
 
